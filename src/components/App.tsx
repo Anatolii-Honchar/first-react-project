@@ -17,11 +17,6 @@ export default function App() {
         imgUrl="https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?w=640"
         price={14.29}
       />
-      <Product
-        name="Nachos"
-        imgUrl="https://images.pexels.com/photos/123456/pexels-photo-123456.jpeg?w=640"
-        price={8.99}
-      />
     </>
   );
 }
